@@ -428,7 +428,7 @@ function getRandomHexColor() {
 async function replyq (text) {
 ptz.sendMessage(m.chat, {
 document: fs.readFileSync("./lib/jomok.js"),
-fileName: 'KyuuRzy Dev',
+fileName: 'Sakia Dev',
 caption: text,
 mimetype: 'application/html',
 headerType: 9,
@@ -1160,7 +1160,7 @@ ${Kyuu}${footer}${Kyuu}
 ───────────────────────`
 ptz.sendMessage(m.chat, {
 document: fs.readFileSync("./lib/jomok.js"),
-fileName: 'KyuuRzy Dev',
+fileName: 'Sakia Dev',
 caption: tek,
 mimetype: 'application/html',
 headerType: 9,
@@ -1279,7 +1279,7 @@ ${Kyuu}${footer}${Kyuu}
 ───────────────────────`
 ptz.sendMessage(m.chat, {
 document: fs.readFileSync("./lib/jomok.js"),
-fileName: 'KyuuRzy Dev',
+fileName: 'Sakia Dev',
 caption: tekk,
 mimetype: 'application/html',
 headerType: 9,
@@ -1328,7 +1328,7 @@ ${Kyuu}${footer}${Kyuu}
 ───────────────────────`
 ptz.sendMessage(m.chat, {
 document: fs.readFileSync("./lib/jomok.js"),
-fileName: 'KyuuRzy Dev',
+fileName: 'Sakia Dev',
 caption: ongner,
 mimetype: 'application/html',
 headerType: 9,
@@ -1371,7 +1371,7 @@ ${Kyuu}${footer}${Kyuu}
 ───────────────────────`
 ptz.sendMessage(m.chat, {
 document: fs.readFileSync("./lib/jomok.js"),
-fileName: 'KyuuRzy Dev',
+fileName: 'Sakia Dev',
 caption: atak,
 mimetype: 'application/html',
 headerType: 9,
@@ -1418,7 +1418,7 @@ ${Kyuu}${footer}${Kyuu}
 ───────────────────────`
 ptz.sendMessage(m.chat, {
 document: fs.readFileSync("./lib/jomok.js"),
-fileName: 'KyuuRzy Dev',
+fileName: 'Sakia Dev',
 caption: stiker,
 mimetype: 'application/html',
 headerType: 9,
@@ -1467,7 +1467,7 @@ ${Kyuu}${footer}${Kyuu}
 ───────────────────────`
 ptz.sendMessage(m.chat, {
 document: fs.readFileSync("./lib/jomok.js"),
-fileName: 'KyuuRzy Dev',
+fileName: 'Sakia Dev',
 caption: tuls,
 mimetype: 'application/html',
 headerType: 9,
@@ -1512,7 +1512,7 @@ ${Kyuu}${footer}${Kyuu}
 ───────────────────────`
 ptz.sendMessage(m.chat, {
 document: fs.readFileSync("./lib/jomok.js"),
-fileName: 'KyuuRzy Dev',
+fileName: 'Sakia Dev',
 caption: ayi,
 mimetype: 'application/html',
 headerType: 9,
@@ -1565,7 +1565,7 @@ ${Kyuu}${footer}${Kyuu}
 ───────────────────────`
 ptz.sendMessage(m.chat, {
 document: fs.readFileSync("./lib/jomok.js"),
-fileName: 'KyuuRzy Dev',
+fileName: 'Sakia Dev',
 caption: vois,
 mimetype: 'application/html',
 headerType: 9,
@@ -1612,7 +1612,7 @@ ${Kyuu}${footer}${Kyuu}
 ───────────────────────`
 ptz.sendMessage(m.chat, {
 document: fs.readFileSync("./lib/jomok.js"),
-fileName: 'KyuuRzy Dev',
+fileName: 'Sakia Dev',
 caption: gruk,
 mimetype: 'application/html',
 headerType: 9,
@@ -1655,7 +1655,7 @@ _*Main Menu*_
 ${Kyuu}${footer}${Kyuu}`
 ptz.sendMessage(m.chat, {
 document: fs.readFileSync("./lib/jomok.js"),
-fileName: 'KyuuRzy Dev',
+fileName: 'Sakia Dev',
 caption: maen,
 mimetype: 'application/html',
 headerType: 9,
