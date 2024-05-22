@@ -24,8 +24,6 @@ const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/
 const { toAudio, toPTT, toVideo } = require('./lib/converter')
 const store = makeInMemoryStore({ logger: pino().child({ level: "silent", stream: "store" }) });
 
-const keep_alive = require('./keep_alive.js')
-
 const low = require('./lib/lowdb');
 const yargs = require('yargs/yargs');
 const { Low, JSONFile } = low;
